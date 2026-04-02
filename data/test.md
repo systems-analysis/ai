@@ -1,3 +1,8 @@
+---
+layout: default
+title: Markdown Test Page
+---
+
 # Heading 1 — Main Title
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, vulputate magna in, ornare sapien. Donec sit amet fermentum eros. Vivamus auctor purus non massa fermentum, vel tincidunt nulla bibendum. Sed euismod, urna vel aliquam lacinia, nisl nisl aliquet nisl, nec aliquam nisl nisl vel nisl. Integer malesuada bibendum diam, sit amet tincidunt odio sagittis vel.

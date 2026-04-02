@@ -1,0 +1,13 @@
+title: Systems analysis AI
+url: https://ai.systems-analysis.ru
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: none
+
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
